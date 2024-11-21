@@ -1,2 +1,2 @@
-# apiredes
-site de aprendizagem - API - REDES.
+# CienciaDeDados-CriandoGraficosDinamicosComJavaScript
+Ciência de dados: Criando Gráficos Dinâmicos com JavaScript
